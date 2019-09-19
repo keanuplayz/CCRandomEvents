@@ -6,10 +6,10 @@ This mod adds some random events to the game. It will include some conversations
 **Rookie Harbor: South**
 
 Event 1:
-![alt text](https://imgur.com/Vg8p48z)
+![Event 1](https://raw.githubusercontent.com/keanuplayz/CCRandomEvents/images/Event1.png)
 
 Event 2:
-![alt text](https://imgur.com/H9sIqn2)
+![Event 2](https://raw.githubusercontent.com/keanuplayz/CCRandomEvents/images/Event2.png)
 
 Event 3:
-![alt text](https://imgur.com/oAKE6BM)
+![Event 3](https://raw.githubusercontent.com/keanuplayz/CCRandomEvents/images/Event3.png)
