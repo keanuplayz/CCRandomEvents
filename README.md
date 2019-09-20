@@ -13,3 +13,6 @@ Event 2:
 
 Event 3:
 ![Event 3](https://raw.githubusercontent.com/keanuplayz/CCRandomEvents/images/Event3.png)
+
+Event 4:
+![Event 3](https://raw.githubusercontent.com/keanuplayz/CCRandomEvents/images/Event4.png)
