@@ -15,4 +15,7 @@ Event 3:
 ![Event 3](https://raw.githubusercontent.com/keanuplayz/CCRandomEvents/images/Event3.png)
 
 Event 4:
-![Event 3](https://raw.githubusercontent.com/keanuplayz/CCRandomEvents/images/Event4.png)
+![Event 4](https://raw.githubusercontent.com/keanuplayz/CCRandomEvents/images/Event4.png)
+
+Event 5:
+![Event 5](https://raw.githubusercontent.com/keanuplayz/CCRandomEvents/images/Event5.png)
