@@ -2,4 +2,7 @@
 	"name": "CCRandomEvents",
 	"main": "mod.js",
 	"version": "0.0.4"
+	"dependencies": {
+    		"extendable-severed-heads": "^1.0.0"
+  	}
 }
