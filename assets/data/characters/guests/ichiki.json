@@ -1,1 +1,460 @@
-{"name":{"en_US":"Ichiki","de_DE":"Ichiki","zh_CN":"\u53f2\u83b1\u7279<<A<<[CHANGED 2019\/04\/16]","ja_JP":"\u30b7\u30e5\u30ec\u30c3\u30c8\u30a6<<A<<[CHANGED 2019\/04\/16]","ko_KR":"\uc290\ub808\ud1a0<<A<<[CHANGED 2019\/04\/16]","langUid":1},"animSheet":{"namedSheets":{"move":{"src":"media\/entity\/npc\/guest\/ichiki.png","xCount":1,"offX":0,"offY":0,"width":32,"height":40}},"shapeType":"Y_FLAT","offset":{"x":0,"y":-2,"z":0},"SUB":[{"sheet":"move","dirs":"4","flipX":[0,0,0,1],"tileOffsets":[0,1,2,1],"SUB":[{"name":"idle","time":1,"repeat":false,"frames":[0]}]}],"DOCTYPE":"MULTI_DIR_ANIMATION"},"walkAnimSet":{"normal":{"idle":"idle","move":"walk"}},"walkAnims":"normal","configs":{"normal":{"relativeVel":0.5}},"face":{"width":168,"height":168,"centerX":58,"centerY":84,"src":"guest\/ichiki.png","parts":[{"normal":{"srcX":0,"srcY":0,"width":168,"height":168,"destX":0,"destY":0,"subX":0,"subY":0,"img":""}}],"expressions":{"DEFAULT":{"faces":[["normal"]]}}}}
+{
+  "name": {
+    "en_US": "Ichiki",
+    "de_DE": "Ichiki",
+    "ko_KR": "이치키",
+    "langUid": 1
+  },
+  "animSheet": {
+    "namedSheets": {
+      "move": {
+        "src": "media/entity/npc/guest/ichiki.png",
+        "xCount": 1,
+        "offX": 0,
+        "offY": 0,
+        "width": 32,
+        "height": 40
+      }
+    },
+    "shapeType": "Y_FLAT",
+    "offset": {
+      "x": 0,
+      "y": -2,
+      "z": 0
+    },
+    "SUB": [
+      {
+        "sheet": "move",
+        "dirs": "4",
+        "flipX": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "tileOffsets": [
+          0,
+          1,
+          2,
+          1
+        ],
+        "SUB": [
+          {
+            "name": "idle",
+            "time": 1,
+            "repeat": false,
+            "frames": [
+              0
+            ]
+          }
+        ]
+      }
+    ],
+    "DOCTYPE": "MULTI_DIR_ANIMATION"
+  },
+  "walkAnimSet": {
+    "normal": {
+      "idle": "idle",
+      "move": "walk"
+    }
+  },
+  "walkAnims": "normal",
+  "configs": {
+    "normal": {
+      "relativeVel": 0.5
+    }
+  },
+  "face": {
+    "width": 168,
+    "height": 168,
+    "centerX": 78,
+    "centerY": 73,
+    "src": "guest/ichiki.png",
+    "subImages": {
+      "wink": "guest/ichikiWink.png",
+      "whistling": "guest/ichikiWhistling.png",
+      "tired": "guest/ichikiTired.png",
+      "sigh": "guest/ichikiSigh.png",
+      "shout": "guest/ichikiShout.png",
+      "pout": "guest/ichikiPout.png",
+      "ooh": "guest/ichikiOoh.png",
+      "disgust": "guest/ichikiDisgust.png",
+      "confident": "guest/ichikiConfident.png",
+      "chuckle": "guest/ichikiChuckle.png",
+      "blush4": "guest/ichikiBlush4.png",
+      "blush3": "guest/ichikiBlush3.png",
+      "blush2": "guest/ichikiBlush2.png",
+      "annoyed": "guest/ichikiAnnoyed.png",
+      "blush": "guest/ichikiBlush.png",
+      "angry": "guest/ichikiAngry.png",
+      "smile": "guest/ichikiSmile.png",
+      "sad": "guest/ichikiSad.png",
+      "smug": "guest/ichikiSmug.png"
+    },
+    "parts": [
+      {
+        "normal": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0
+        },
+        "smile": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0,
+          "img": "smile"
+        },
+        "sad": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0,
+          "img": "sad"
+        },
+        "smug": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0,
+          "img": "smug"
+        },
+        "angry": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0,
+          "img": "angry"
+        },
+        "annoyed": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0,
+          "img": "annoyed"
+        },
+        "blush": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0,
+          "img": "blush"
+        },
+        "blush2": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0,
+          "img": "blush2"
+        },
+        "blush3": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0,
+          "img": "blush3"
+        },
+        "blush4": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0,
+          "img": "blush4"
+        },
+        "chuckle": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0,
+          "img": "chuckle"
+        },
+        "confident": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0,
+          "img": "confident"
+        },
+        "disgust": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0,
+          "img": "disgust"
+        },
+        "ooh": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0,
+          "img": "ooh"
+        },
+        "pout": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0,
+          "img": "pout"
+        },
+        "shout": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0,
+          "img": "shout"
+        },
+        "sigh": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0,
+          "img": "sigh"
+        },
+        "tired": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0,
+          "img": "tired"
+        },
+        "whistling": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0,
+          "img": "whistling"
+        },
+        "wink": {
+          "srcX": 0,
+          "srcY": 0,
+          "width": 168,
+          "height": 168,
+          "destX": 0,
+          "destY": 0,
+          "subX": 0,
+          "subY": 0,
+          "img": "wink"
+        }
+      }
+    ],
+    "expressions": {
+      "DEFAULT": {
+        "faces": [
+          [
+            "normal"
+          ]
+        ]
+      },
+      "SMILE": {
+        "faces": [
+          [
+            "smile"
+          ]
+        ]
+      },
+      "SAD": {
+        "faces": [
+          [
+            "sad"
+          ]
+        ]
+      },
+      "SMUG": {
+        "faces": [
+          [
+            "smug"
+          ]
+        ]
+      },
+      "ANGRY": {
+        "faces": [
+          [
+            "angry"
+          ]
+        ]
+      },
+      "ANNOYED": {
+        "faces": [
+          [
+            "annoyed"
+          ]
+        ]
+      },
+      "BLUSH": {
+        "faces": [
+          [
+            "blush"
+          ]
+        ]
+      },
+      "BLUSH2": {
+        "faces": [
+          [
+            "blush2"
+          ]
+        ]
+      },
+      "BLUSH3": {
+        "faces": [
+          [
+            "blush3"
+          ]
+        ]
+      },
+      "BLUSH4": {
+        "faces": [
+          [
+            "blush4"
+          ]
+        ]
+      },
+      "CHUCKLE": {
+        "faces": [
+          [
+            "chuckle"
+          ]
+        ]
+      },
+      "CONFIDENT": {
+        "faces": [
+          [
+            "confident"
+          ]
+        ]
+      },
+      "DISGUST": {
+        "faces": [
+          [
+            "disgust"
+          ]
+        ]
+      },
+      "ASTONISHED": {
+        "faces": [
+          [
+            "astonished"
+          ]
+        ]
+      },
+      "POUT": {
+        "faces": [
+          [
+            "pout"
+          ]
+        ]
+      },
+      "SHOUT": {
+        "faces": [
+          [
+            "shout"
+          ]
+        ]
+      },
+      "SIGH": {
+        "faces": [
+          [
+            "sigh"
+          ]
+        ]
+      },
+      "TIRED": {
+        "faces": [
+          [
+            "tired"
+          ]
+        ]
+      },
+      "WHISTLING": {
+        "faces": [
+          [
+            "whistling"
+          ]
+        ]
+      },
+      "WINK": {
+        "faces": [
+          [
+            "wink"
+          ]
+        ]
+      }
+    }
+  }
+}
